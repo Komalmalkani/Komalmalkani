@@ -10,10 +10,12 @@
   <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"height=400width=400>
 </p>
 
+<p>I'm a MERN Stack Developer passionate about building scalable web apps.</p>
 
 
 
-# My Technology Stack 🚀
+
+<h2 align="center"> My Technology Stack 🚀 </h1> 
 
 Welcome to my GitHub profile! Here’s a snapshot of the technologies I’m learning and have mastered so far:
 
@@ -28,11 +30,8 @@ Welcome to my GitHub profile! Here’s a snapshot of the technologies I’m lear
 
 Feel free to explore my repositories to see how I use these technologies in my projects. If you have any questions or want to collaborate, don’t hesitate to reach out!
 
-Happy Coding! ✨
-
-
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Komalmalkani-blue?style=flat&logo=linkedin)]()
 [![Gmail](https://img.shields.io/badge/Gmail-malkanikomal03@gmail.com-red)](mailto:malkanikomal03@gmail.com)
-
+<h1>Happy Coding! ✨</h1>
