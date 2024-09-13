@@ -26,7 +26,7 @@ Welcome to my GitHub profile! Here’s a snapshot of the technologies I’m lear
 | **Database**            | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB &nbsp;&nbsp; ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL &nbsp;&nbsp; |
 | **Version Control**     | ![Git](https://img.icons8.com/color/48/000000/git.png) Git &nbsp;&nbsp; ![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub &nbsp;&nbsp; ! |
 | **IDE & Environment**   | ![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/48px-Visual_Studio_Code_1.35_icon.svg.png) Visual Studio Code &nbsp;&nbsp;  &nbsp;&nbsp; ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker |
-| **Hosting Experience**  | ![Heroku](https://img.icons8.com/color/48/000000/heroku.png) Heroku &nbsp;&nbsp; ![Netlify](https://img.icons8.com/color/48/000000/netlify.png) Netlify &nbsp;&nbsp; ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS &nbsp;&nbsp; |
+| **Hosting Experience**  | ![Heroku](https://img.icons8.com/color/48/000000/heroku.png) Heroku &nbsp;&nbsp; ![Netlify](https://download.logo.wine/logo/Netlify/48/000000/Netlify-Logo.wine.png) Netlify &nbsp;&nbsp; ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS &nbsp;&nbsp; |
 
 Feel free to explore my repositories to see how I use these technologies in my projects. If you have any questions or want to collaborate, don’t hesitate to reach out!
 
