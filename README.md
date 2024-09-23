@@ -1,6 +1,6 @@
 
   <p align="center">
-  <img src=""C:\Users\malka\Downloads\Komal Malkani.jpg"">
+  <img src="68747470733a2f2f6d706f6c696e6f77736b692e6769746875622e696f2f506572736f6e616c2f706572736f6e616c5f6173736574732f696d672f746f6f6c735f62616e6e65722e77656270">
 </p>
   <h1 align="center"> Hi, I'm Komal Malkani 👋</h1>
 <p align="center">
